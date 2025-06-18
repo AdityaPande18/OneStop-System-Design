@@ -34,7 +34,7 @@ A curated repository of system design problems commonly asked in SDE interviews,
 | 23 | ⏳Metrics Collector and Aggregator | [HLD 📘](./23_Metrics_Collector/HLD.md) &nbsp; &#124; &nbsp; [LLD 📙](./23_Metrics_Collector/LLD.md) &nbsp; &#124; &nbsp; [Diagram 🖼️](./23_Metrics_Collector/diagram.png) |
 | 24 | ⏳Notification Rate Controller (like WhatsApp message flood control) | [HLD 📘](./24_Notification_Rate_Controller/HLD.md) &nbsp; &#124; &nbsp; [LLD 📙](./24_Notification_Rate_Controller/LLD.md) &nbsp; &#124; &nbsp; [Diagram 🖼️](./24_Notification_Rate_Controller/diagram.png) |
 | 25 | ⏳Social Media Application (like Instagram) | [HLD 📘](./25_Social_Media_Application/HLD.md) &nbsp; &#124; &nbsp; [LLD 📙](./25_Social_Media_Application/LLD.md) &nbsp; &#124; &nbsp; [Diagram 🖼️](./25_Social_Media_Application/diagram.png) |
-
+| 26 | ⏳Auth System (JWT, session or OAuth) | [HLD 📘](./26_Auth_System/HLD.md) &nbsp; &#124; &nbsp; [LLD 📙](./26_Auth_System/LLD.md) &nbsp; &#124; &nbsp; [Diagram 🖼️](./26_Auth_System/diagram.png) |
 
 ---
 ## ✍️ Contributing
