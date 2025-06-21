@@ -37,4 +37,11 @@ A curated repository of system design problems commonly asked in SDE interviews,
 | 26 | ⏳Auth System (JWT, session or OAuth) | [HLD 📘](./26_Auth_System/HLD.md) &nbsp; &#124; &nbsp; [LLD 📙](./26_Auth_System/LLD.md) &nbsp; &#124; &nbsp; [Diagram 🖼️](./26_Auth_System/diagram.png) |
 
 ---
+
 ## ✍️ Contributing
+Love system design? Found something to improve or want to add a new problem?
+We welcome pull requests and feedback!
+
+### 🙌 Contributors
+
+- **Aditya Pande** – Initial setup & core content
