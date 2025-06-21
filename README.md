@@ -9,9 +9,9 @@ A curated repository of system design problems commonly asked in SDE interviews,
 
 | #  | System Design Problem           | Resources |
 |----|----------------------------------|-----------|
-| 1  | ✅Ticket Booking System (like BookMyShow)            | [HLD 📘](./01_Ticket_Booking_System/HLD.md) &nbsp; &#124; &nbsp; [LLD 📙](./01_Ticket_Booking_System/LLD.md) &nbsp; &#124; &nbsp; [Diagram 🖼️](./01_Ticket_Booking_System/diagram.png) |
-| 2  | ⏳URL Shortener                    | [HLD 📘](./02_URL_Shortener/HLD.md) &nbsp; &#124; &nbsp; [LLD 📙](./02_URL_Shortener/LLD.md) &nbsp; &#124; &nbsp; [Diagram 🖼️](./02_URL_Shortener/diagram.png) |
-| 3  | ⏳Rate Limiter                     | [HLD 📘](./03_Rate_Limiter/HLD.md) &nbsp; &#124; &nbsp; [LLD 📙](./03_Rate_Limiter/LLD.md) &nbsp; &#124; &nbsp; [Diagram 🖼️](./03_Rate_Limiter/diagram.png) |
+| 1  | ✅ Ticket Booking System (like BookMyShow)            | [HLD 📘](./01_Ticket_Booking_System/HLD.md) &nbsp; &#124; &nbsp; [LLD 📙](./01_Ticket_Booking_System/LLD.md) &nbsp; &#124; &nbsp; [Diagram 🖼️](./01_Ticket_Booking_System/diagram.png) |
+| 2  | ✅ URL Shortener                    | [HLD 📘](./02_URL_Shortener/HLD.md) &nbsp; &#124; &nbsp; [LLD 📙](./02_URL_Shortener/LLD.md) &nbsp; &#124; &nbsp; [Diagram 🖼️](./02_URL_Shortener/diagram.png) |
+| 3  | ✅ Rate Limiter                     | [HLD 📘](./03_Rate_Limiter/HLD.md) &nbsp; &#124; &nbsp; [LLD 📙](./03_Rate_Limiter/LLD.md) &nbsp; &#124; &nbsp; [Diagram 🖼️](./03_Rate_Limiter/diagram.png) |
 | 4  | ⏳Ride Sharing App                 | [HLD 📘](./04_Ride_Sharing_App/HLD.md) &nbsp; &#124; &nbsp; [LLD 📙](./04_Ride_Sharing_App/LLD.md) &nbsp; &#124; &nbsp; [Diagram 🖼️](./04_Ride_Sharing_App/diagram.png) |
 | 5  | ⏳Instagram Clone                  | [HLD 📘](./05_Instagram_Clone/HLD.md) &nbsp; &#124; &nbsp; [LLD 📙](./05_Instagram_Clone/LLD.md) &nbsp; &#124; &nbsp; [Diagram 🖼️](./05_Instagram_Clone/diagram.png) |
 | 6  | ⏳Parking Lot System               | [HLD 📘](./06_Parking_Lot_System/HLD.md) &nbsp; &#124; &nbsp; [LLD 📙](./06_Parking_Lot_System/LLD.md) &nbsp; &#124; &nbsp; [Diagram 🖼️](./06_Parking_Lot_System/diagram.png) |
