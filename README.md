@@ -13,7 +13,7 @@ A curated repository of system design problems commonly asked in SDE interviews,
 | 2  | ✅ URL Shortener                    | [HLD 📘](./02_URL_Shortener/HLD.md) &nbsp; &#124; &nbsp; [LLD 📙](./02_URL_Shortener/LLD.md) &nbsp; &#124; &nbsp; [Diagram 🖼️](./02_URL_Shortener/diagram.png) |
 | 3  | ✅ Rate Limiter                     | [HLD 📘](./03_Rate_Limiter/HLD.md) &nbsp; &#124; &nbsp; [LLD 📙](./03_Rate_Limiter/LLD.md) &nbsp; &#124; &nbsp; [Diagram 🖼️](./03_Rate_Limiter/diagram.png) |
 | 4  | ⏳Ride Sharing App                 | [HLD 📘](./04_Ride_Sharing_App/HLD.md) &nbsp; &#124; &nbsp; [LLD 📙](./04_Ride_Sharing_App/LLD.md) &nbsp; &#124; &nbsp; [Diagram 🖼️](./04_Ride_Sharing_App/diagram.png) |
-| 5  | ⏳Instagram Clone                  | [HLD 📘](./05_Instagram_Clone/HLD.md) &nbsp; &#124; &nbsp; [LLD 📙](./05_Instagram_Clone/LLD.md) &nbsp; &#124; &nbsp; [Diagram 🖼️](./05_Instagram_Clone/diagram.png) |
+| 5 | ⏳Social Media Application (like Instagram) | [HLD 📘](./5_Social_Media_Application/HLD.md) &nbsp; &#124; &nbsp; [LLD 📙](./5_Social_Media_Application/LLD.md) &nbsp; &#124; &nbsp; [Diagram 🖼️](./5_Social_Media_Application/diagram.png) |
 | 6  | ⏳Parking Lot System               | [HLD 📘](./06_Parking_Lot_System/HLD.md) &nbsp; &#124; &nbsp; [LLD 📙](./06_Parking_Lot_System/LLD.md) &nbsp; &#124; &nbsp; [Diagram 🖼️](./06_Parking_Lot_System/diagram.png) |
 | 7  | ⏳Elevator System                  | [HLD 📘](./07_Elevator_System/HLD.md) &nbsp; &#124; &nbsp; [LLD 📙](./07_Elevator_System/LLD.md) &nbsp; &#124; &nbsp; [Diagram 🖼️](./07_Elevator_System/diagram.png) |
 | 8  | ⏳Cab Booking System (like Uber/Ola) | [HLD 📘](./08_Cab_Booking_System/HLD.md) &nbsp; &#124; &nbsp; [LLD 📙](./08_Cab_Booking_System/LLD.md) &nbsp; &#124; &nbsp; [Diagram 🖼️](./08_Cab_Booking_System/diagram.png) |
@@ -33,8 +33,7 @@ A curated repository of system design problems commonly asked in SDE interviews,
 | 22 | ⏳API Gateway                      | [HLD 📘](./22_API_Gateway/HLD.md) &nbsp; &#124; &nbsp; [LLD 📙](./22_API_Gateway/LLD.md) &nbsp; &#124; &nbsp; [Diagram 🖼️](./22_API_Gateway/diagram.png) |
 | 23 | ⏳Metrics Collector and Aggregator | [HLD 📘](./23_Metrics_Collector/HLD.md) &nbsp; &#124; &nbsp; [LLD 📙](./23_Metrics_Collector/LLD.md) &nbsp; &#124; &nbsp; [Diagram 🖼️](./23_Metrics_Collector/diagram.png) |
 | 24 | ⏳Notification Rate Controller (like WhatsApp message flood control) | [HLD 📘](./24_Notification_Rate_Controller/HLD.md) &nbsp; &#124; &nbsp; [LLD 📙](./24_Notification_Rate_Controller/LLD.md) &nbsp; &#124; &nbsp; [Diagram 🖼️](./24_Notification_Rate_Controller/diagram.png) |
-| 25 | ⏳Social Media Application (like Instagram) | [HLD 📘](./25_Social_Media_Application/HLD.md) &nbsp; &#124; &nbsp; [LLD 📙](./25_Social_Media_Application/LLD.md) &nbsp; &#124; &nbsp; [Diagram 🖼️](./25_Social_Media_Application/diagram.png) |
-| 26 | ⏳Auth System (JWT, session or OAuth) | [HLD 📘](./26_Auth_System/HLD.md) &nbsp; &#124; &nbsp; [LLD 📙](./26_Auth_System/LLD.md) &nbsp; &#124; &nbsp; [Diagram 🖼️](./26_Auth_System/diagram.png) |
+| 25 | ⏳Auth System (JWT, session or OAuth) | [HLD 📘](./26_Auth_System/HLD.md) &nbsp; &#124; &nbsp; [LLD 📙](./26_Auth_System/LLD.md) &nbsp; &#124; &nbsp; [Diagram 🖼️](./26_Auth_System/diagram.png) |
 
 ---
 
